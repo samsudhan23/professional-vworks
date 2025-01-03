@@ -52,7 +52,6 @@
                 },
                 {
                 "type": "anyComponentStyle",
-                "selector": "app-root",
                 "maximumWarning": "150kb",
                 "maximumError": "200kb"
                 }
