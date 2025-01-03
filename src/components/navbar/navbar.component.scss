@@ -1,0 +1,14 @@
+.nav-bar {
+    z-index: 1000;
+    background-color: #0000;
+    flex-flow: row;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 1440px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+}

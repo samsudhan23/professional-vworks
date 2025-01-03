@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+body{
+    transition: all, opacity 900ms, transform 1100ms;
+    opacity: 1;
+    transform: translateX(0px) translateY(0px);
+
+    color: #333;
+    background-color: #fff;
+    min-height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.body.home {
+    background-color: #fff;
+    transition: background-color 0.5s ease;
+}
+
+.body{
+    color: #607d8b;
+    background-color: #fff;
+    transition: background-color 0.5s ease;
+    font-family: Open Sans, sans-serif;
+    font-weight: 400;
+}
